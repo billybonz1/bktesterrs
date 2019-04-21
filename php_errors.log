@@ -1,0 +1,8 @@
+[21-Apr-2019 09:26:42 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/old-bk.com/index.php on line 11
+[21-Apr-2019 09:26:42 UTC] PHP Stack trace:
+[21-Apr-2019 09:26:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/old-bk.com/index.php:0
+[21-Apr-2019 09:26:42 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/old-bk.com/index.php:11
+[21-Apr-2019 12:04:50 UTC] PHP Warning:  mysql_connect(): Access denied for user ''@'localhost' (using password: NO) in /home/ubuntu/workspace/old-bk.com/index.php on line 11
+[21-Apr-2019 12:04:50 UTC] PHP Stack trace:
+[21-Apr-2019 12:04:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/old-bk.com/index.php:0
+[21-Apr-2019 12:04:50 UTC] PHP   2. mysql_connect() /home/ubuntu/workspace/old-bk.com/index.php:11

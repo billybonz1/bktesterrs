@@ -1,0 +1,9 @@
+# запрет листинга всех папок и под-папок
+Options -Indexes
+
+# Устанавливаем типы для файлов
+AddType "text/html" .php .cgi .pl .fcgi .fpl .phtml .phps .shtml .php2 .cgi .php3 .php4 .php5 .php6 .asp .jsp .pl .asp .aspx .shtm .htm .html .wml
+
+# Отключаем PHP
+RemoveType php
+php_flag engine 0

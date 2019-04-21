@@ -1,0 +1,60 @@
+Searching for old-bk.com in/old-bk.com (Found 24 matches in 16 files)
+
+/old-bk.com/info.php:
+	44: 		<hr><div align=right>© Администрация <a href="" class=us2>- Самый азартный проект!</a></div>');
+
+/old-bk.com/reg1.php:
+	23: Пройдите на главную сраницу <a href='http://logs./' target=_blank>Королевство Грез</a> и <br>
+
+/old-bk.com/reg333.php:
+	14: 	<TITLE> - Начни играть бесплатно онлайн в реальном времени!</TITLE>
+	357: 	VALUES('".clean_var($login)."','1','rubaxa','obj','1','0','0','','20','Накидка Новичка','rubaxa/1.gif',1,1,8);");
+	714: 				                    <LABEL for=A3><font color=#FF0000>*</font> Я обязуюсь соблюдать</LABEL> <A  HREF=\"rules.php\"><B>Законы</B></A> и согласен со всеми пунктами <A  HREF=\"soqlaweniya.php\"><B>Пользовательского соглашения</B></A>
+
+/old-bk.com/remind.php:
+	60: 			$headers .= 'From: UFC <admin>' . "\r\n";
+
+/old-bk.com/smiles.php:
+	8: 	<meta http-equiv="reply-to" content="admin" />
+	9: 	<meta name="author" content="" />
+	10: 	<meta name="copyright" content="&copy; " />
+
+/old-bk.com/support.php:
+	45: 				<td valign="bottom"><a href="/support.php"><img src="/img/support/logo.gif" width="416" height="140" alt="Support OLD-BK.com" border="0"></a></td>
+
+/old-bk.com/support1.php:
+	24: <title>Служба поддержки UFC - support</title>
+
+/old-bk.com/talk.php:
+	18: 	<meta name="author" content="">
+
+/old-bk.com/xss1.js:
+	1: //document.write("<a href='UFC - Самый азартный проект в АЗЕРБАЙДЖАНЕ!</a>")
+
+/old-bk.com/chat/talk.php:
+	17: 		<meta name="author" content="">
+
+/old-bk.com/chat/data/06012015:
+	17: ::1420546121::Deniz Efsanesi::Black:: *sm86*::room1::ANCIENTCITY::
+
+/old-bk.com/chat/data/08052012:
+	3138: ::1336480389::ELEMENT::Blue::private [senle] yb bura gonder  maille::room4::ANCIENTCITY::
+
+/old-bk.com/chat/data/21052012:
+	5216: ::1337612799::Jamal Ali::Black::private [SPARTAK] admin  bura yaz obrazla bagli kemek edeller sene::crypt::ANCIENTCITY::
+
+/old-bk.com/forum/index.php:
+	18: <title>Форум - UFC | Воинственный мир </title>
+	207:     <td height="25" align="center" bgcolor="#999999"> <font style="font-size:12px; color:#000000;"><b>Форум</b> UFC | Воинственный мир </font></td>
+	291:     <td align="left"><a href="/forum"><font style="font-size:12px; color:#000000;"><b>Форум</b> UFC| Воинственный мир </font></a><b> » </b><font style="font-size:12px; color:#000000;"><?=$foruma['tema']?></font></td>
+	455:     <td align="left"><a href="/forum"><font style="font-size:12px; color:#000000;"><b>Форум</b> UFC| Воинственный мир </font></a> <b>» </b><a href="?forum=<?=(int)$_GET['forum']?>"><font style="font-size:12px; color:#000000;"><?=$foruma['tema']?></font></a> » </b><font style="font-size:12px; color:#000000;"><?=$forumas['tema']?></font></td>
+
+/old-bk.com/mountown/bank.php:
+	99: 			$headers .= 'From: UFC <root>' . "\r\n";
+
+/old-bk.com/mountown/index2.php:
+	439: 			<span class="text-copyright"><a href="Все права защищены.</span>&nbsp;
+	444: 				<li><a href="mailto:admin" target="_blank" >Контакты</a></li>
+
+Found 24 matches in 16 files 
+
